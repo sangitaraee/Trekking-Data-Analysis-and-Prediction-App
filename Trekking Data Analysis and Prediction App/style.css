@@ -1,0 +1,58 @@
+.main-header {
+    font-size: 30px; 
+    font-weight: bold;
+    color: #000000d2;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.input-section {
+    font-size: 18px;
+    color: #000000;
+    padding: 10px 0;
+    margin-bottom: 15px;
+    border-bottom: 1px solid #e6e6e6;
+}
+div.stSubHeader {
+    display: flex;
+    font-size: 16px;
+    justify-content: center;
+}
+
+.input-title {
+    font-size: 10px;  /* Adjust the size as needed */
+    color: #000000;   /* You can keep or change the color */
+    font-weight:500 /* Optional: make the text bold */
+}
+
+
+div.stButton {
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+}
+
+.recommendation-card {
+    border: 1px solid #000000;
+    padding: 8px;
+    margin-bottom: 8px; 
+    border-radius: 5px;
+    font-size: 16px; 
+}
+
+.recommendation-card h3 {
+    color: #7da1ff; 
+    margin-bottom: 5px;
+    font-size: 18px; 
+}
+
+.recommendation-card p {
+    font-size: 14px; 
+    color: #000000;
+}
+
+.section-title {
+    font-size: 18px; 
+    color: #000000;
+    margin-bottom: 15px;
+}
